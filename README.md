@@ -1,5 +1,5 @@
 # Raid-Availability-Scheduler
-This program takes a csv file and finds a schedule that fits the players availability.
+This program takes a CSV file and finds a schedule that fits the players availability.
 
 This file contains an executable which creates a schedule based on user input as well as an included .csv file containing the information of the availability of different players. 
 
